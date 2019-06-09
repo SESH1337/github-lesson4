@@ -37,3 +37,56 @@ body{
 	margin-top: 20px;
 	margin-left: 15px
 }
+{}{}{}{}{}
+
+.HTML{
+	height: 50px;
+	margin-left: 25px;
+
+}
+.d-block{
+	display: inline-block;
+}
+.main{
+	font-size: 23px;
+	margin-left: 15px;
+}
+.padding{
+	padding: 9px;
+}
+.class-li{
+	color: blue;
+}
+span{
+	color:red;
+}
+.date{
+	background:#3D58A6;
+	font-size: 48px;
+	color:#FFF;
+	margin-left:25px;
+	margin-top:20px;}
+
+.h1class{
+	font-size: 23px;
+	margin-left:25px;
+	margin-top:10px;
+	color: blue;
+}
+    .lorem{
+    vertical-align: top
+	margin-top:15px;
+	margin-left:25px;
+}
+.back{
+	font-size: 22px;
+}
+
+.margin{
+	margin-top:15px;
+    margin-left:25px;
+}
+.article-p{
+	width: 830px;
+	font-size: 17px
+
