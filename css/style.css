@@ -1,3 +1,5 @@
+@import url("https://cdn.web-fonts.ge/fonts/bpg-classic-medium/css/bpg-classic-medium.min.css");
+
 body{
 	padding: 30px;
 }
@@ -59,7 +61,9 @@ body{
 }
 span{
 	color:red;
+
 }
+
 .date{
 	background:#3D58A6;
 	font-size: 48px;
@@ -78,6 +82,7 @@ span{
 	margin-top:15px;
 	margin-left:25px;
 }
+
 .back{
 	font-size: 22px;
 }
@@ -88,5 +93,14 @@ span{
 }
 .article-p{
 	width: 830px;
-	font-size: 17px
+	font-size: 17px;
 
+}
+.show{
+ display: inline-block;
+ vertical-align: middle;
+	font-size: 20px;
+}
+.pingpong{
+	font-family: "Arial GEO BoldItalic", sans-serif;
+}
